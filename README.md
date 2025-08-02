@@ -66,6 +66,12 @@ See `dataset/README.md` for more details.
 
 ---
 
+## 📤 Outputs
+
+Final predictions on the test set are saved to `test_predictions.csv` for submission.
+
+---
+
 ## 🔍 Key Concepts
 
 - Deep CNN model design
